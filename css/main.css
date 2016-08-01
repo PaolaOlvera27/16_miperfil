@@ -1,0 +1,71 @@
+* {
+	font-family: 'Oswald', sans-serif;
+}
+li {
+	text-decoration: none;
+	display: inline-block;
+	padding: 0 1%;
+	font-size: 15px;
+	margin:40px 0px;
+}
+.non {
+	text-decoration:none;
+	color: black;
+}
+.fondo {
+	background-image: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 100%;
+}
+.logo {
+	padding: 50px 0px 35px 50%;
+}
+.letra1 {
+	color: white;
+	font-size: 45px;
+	margin: 20px;
+}
+.letra2 {
+	color: purple;
+	font-size: 25px;
+}
+.letra3 {
+	color: lightgrey;
+	font-size: 30px;
+}
+.margen1 {
+	margin: 60px 0px 25px 0px;
+}
+.margen2 {
+	margin: 90px 0px 20px 0px;
+}
+.img1 {
+	width: 200px;
+	height: 200px;
+	float: right;
+	border: 2px solid lightgrey;
+	padding: 3px;
+}
+.img2 {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	padding: 3px;
+	border: 1px solid violet;
+	float: right;
+	margin: 25px 15% 60px 0px;
+	opacity: .93;
+}
+footer {
+	background-image: url("../img/tile2.png");
+}
+.fondo2 {
+	background-image: url("../img/tile1.png");
+}
+.mar {
+	margin: 10px 0px 60px 30%;
+}
+.icon {
+	margin: 0px 15px;
+}
